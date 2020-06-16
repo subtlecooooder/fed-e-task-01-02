@@ -1,0 +1,18 @@
+{
+  "name": "FB",
+  "version": "1.0.0",
+  "main": "FB.js",
+  "author": "CC",
+  "license": "MIT",
+  "dependencies": {
+    "folktale": "^2.3.2",
+    "html-webpack-plugin": "^4.3.0",
+    "lodash": "^4.17.15",
+    "nodemon": "^2.0.4",
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.11",
+    "webpack-dev-middleware": "^3.7.2",
+    "webpack-dev-server": "^3.11.0",
+    "webpack-hot-middleware": "^2.25.0"
+  }
+}
